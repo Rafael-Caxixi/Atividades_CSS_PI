@@ -1,0 +1,32 @@
+.pai_a {
+    background-color: aquamarine;
+    width: 500px;
+    height: 500px;
+}
+
+.filho_a {
+    background-color: bisque;
+    height: 50%;
+    width: 50%;
+
+}
+
+.filho_b {
+    background-color: crimson;
+    color: white;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.pai_b {
+    width: 50vw;
+    height: 50vh;
+    background-color: blueviolet;
+}
+
+.filho_c {
+    width: 75vw;
+    height: 50%;
+    background-color:lightcoral;
+}

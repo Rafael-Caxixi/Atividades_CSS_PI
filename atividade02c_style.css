@@ -1,0 +1,52 @@
+.body {
+    background-color: gray;
+}
+
+.div_b {
+    background-color: white;
+    height: 500px;
+    width: 50vw;
+    border-style: dotted;
+    border-color: black;
+    border-width: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+.div_c {
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+    
+    display: flex;
+
+
+}
+
+.div_d {
+    background-color: rgb(230, 72, 9);
+    height: 100px;
+    width: 30%;
+    
+}
+
+.div_e {
+    background-color: rgb(11, 238, 22);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+
+}
